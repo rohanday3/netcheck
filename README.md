@@ -11,7 +11,7 @@ You can use a service such as NGROK to allow you to see the web interface outsid
 
 ## Installation
 
-    git clone https://github.com/TristanBrotherton/netcheck.git
+    git clone https://github.com/rohanday3/netcheck.git
     cd netcheck
     chmod +x netcheck.sh
     ./netcheck.sh
